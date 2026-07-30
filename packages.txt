@@ -1,5 +1,10 @@
 libgl1-mesa-glx
 libglib2.0-0
+libgthread-2.0-0
+libgstreamer1.0-0
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-bad
 libsm6
 libxext6
 libxrender-dev
